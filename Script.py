@@ -205,8 +205,8 @@ Nᴀᴍᴇ - {}"""
 <b>⍟ ғɪʟᴇ ɴᴀᴍᴇ : @CK_OFFICAL ~ {file_name}
 ⍟ ғɪʟᴇ sɪᴢᴇ : {file_size}
 
-‣ @CK_OFFICAL
-‣ @MALLUMOVIES_CK</b>"""
+<a href= https://t.me/+r22Pu6glcsMwNjll>❒ ᴄʜᴀɴɴᴇʟ​</a>
+<a href= https://t.me/+Yn2OPnmuEgU5NDFl>❒ ɢʀᴏᴜᴘ​</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
