@@ -18,7 +18,7 @@ API_HASH = environ['API_HASH']
 BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 54000))
+CACHE_TIME = int(environ.get('CACHE_TIME', 86400))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
 PICS = (environ.get('PICS', 'https://graph.org/file/54089d87ed72873768014.jpg')).split()
