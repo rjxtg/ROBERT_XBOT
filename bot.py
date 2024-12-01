@@ -22,6 +22,11 @@ from aiohttp import web
 from plugins import web_server
 from sample_info import tempDict
 
+from pyrogram import utils as pyroutils
+
+pyroutils.MIN_CHAT_ID = -999999999999
+pyroutils.MIN_CHANNEL_ID = -100999999999999
+
 class Bot(Client):
 
     def __init__(self):
@@ -119,7 +124,3 @@ class Bot(Client):
 
 app = Bot()
 app.run()
-from pyrogram import utils as pyroutils
-
-pyroutils.MIN_CHAT_ID = -999999999999
-pyroutils.MIN_CHANNEL_ID = -100999999999999
