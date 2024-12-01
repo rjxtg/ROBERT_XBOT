@@ -202,7 +202,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>⍟ ғɪʟᴇ ɴᴀᴍᴇ : @CK_OFFICAL ~ {file_name}
+<b>⍟ ғɪʟᴇ ɴᴀᴍᴇ : @CK_OTT ~ {file_name}
 ⍟ ғɪʟᴇ sɪᴢᴇ : {file_size}
 
 <a href= https://t.me/+r22Pu6glcsMwNjll>❒ ᴄʜᴀɴɴᴇʟ​</a>
